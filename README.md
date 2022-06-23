@@ -1,6 +1,6 @@
 ## I'm a Front end Developer
 
-- 👋 Hi, I’m @ayra-sa
+- 👋 Hi, I’m @arya-sa
 - 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning everything 😂
 - 🥅 My Goals: Contribute more to open source project
